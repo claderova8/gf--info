@@ -88,6 +88,8 @@
     "where=",
     "xmlforest=",
     "keyword=",
-    "xor="
+    "xor=",
+    "sid=",
+    "Sid="
   ]
 }
