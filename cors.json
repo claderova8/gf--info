@@ -1,0 +1,17 @@
+{
+    "flags": "-HnriE",
+    "patterns": [
+        "Access-Control-Allow-Origin",
+        "Access-Control-Allow-Methods",
+        "Access-Control-Allow-Headers",
+        "Access-Control-Allow-Credentials",
+        "Access-Control-Expose-Headers",
+        "Access-Control-Max-Age",
+        "Access-Control-Allow-Request-Method",
+        "Access-Control-Allow-Request-Headers",
+        "Access-Control-Request-Method",
+        "Access-Control-Request-Headers",
+        "Access-Control-Allow-Private-Network",
+        "Access-Control-Allow-Force-Preflight"
+    ]
+}
